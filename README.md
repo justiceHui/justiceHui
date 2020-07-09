@@ -1,9 +1,28 @@
-### Hi there 👋
+# JusticeHui
+
+### Profile 🙋‍♂️
+
+* Jeounghui Nah (a.k.a. jhnah917, JusticeHui)
+* Sunrin Internet High School 3rd grade
+* Competitive Programmer
+
+### Online Judge 💻
+
+* BOJ: [jhnah917](http://icpc.me/jhnah917)
+  * solvedac: [jhnah917](https://solved.ac/profile/jhnah917)
+* Codeforces: [Justice_Hui](https://codeforces.com/profile/Justice_Hui)
+
+### PS Blog 💬
+
+* [JusticeHui's PS Blog](https://justiceHui.github.io)
+* [Algoshitpo Team PS Blog](https://algoshitpo.github.io)
+
+### Contacts 📫
+
+* Github Repo Issue
+* Codeforces DM
 
 <!--
-**justiceHui/justiceHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
