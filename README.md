@@ -12,10 +12,16 @@
   * solvedac: [jhnah917](https://solved.ac/profile/jhnah917)
 * Codeforces: [Justice_Hui](https://codeforces.com/profile/Justice_Hui)
 
-### PS Blog 💬
+### Problem Solving Blog 💬
 
 * [JusticeHui's PS Blog](https://justiceHui.github.io)
 * [Algoshitpo Team PS Blog](https://algoshitpo.github.io)
+
+### Project ⚡
+
+* Problem Solving Blog ([#1](https://justiceHui.github.io), [#2](https://algoshitpo.github.io))
+* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown): Advanced Algorithm Introduction
+* [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
 
 ### Contacts 📫
 
