@@ -1,5 +1,7 @@
 # JusticeHui
 
+![JusticeHui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true)
+
 ### Profile 🙋‍♂️
 
 * Jeounghui Nah (a.k.a. jhnah917, JusticeHui)
