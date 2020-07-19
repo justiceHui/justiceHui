@@ -1,6 +1,8 @@
 # JusticeHui
 
-![JusticeHui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true)
+[![Github Followers](https://img.shields.io/github/followers/justiceHui?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/justiceHui?tab=followers)
+
+[![JusticeHui's github stats](https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true)](https://github.com/justiceHui)
 
 ### Profile 🙋‍♂️
 
