@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjusticeHui)](https://github.com/justiceHui) [![Github Followers](https://img.shields.io/github/followers/justiceHui?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/justiceHui?tab=followers)
 
-[![jhnah917's solvedac profile](http://mazassumnida.wtf/api/generate_badge?boj=jhnah917)](https://solved.ac/profile/jhnah917)
+[![jhnah917's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhnah917)](https://solved.ac/profile/jhnah917)
 
 [![JusticeHui's github stats](https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true)](https://github.com/justiceHui)
 
