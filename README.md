@@ -1,4 +1,6 @@
-# Jeounghui Nah<sub>@JusticeHui</sub>
+# Jeounghui Nah <sub>a.k.a. JusticeHui</sub>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjusticeHui)](https://github.com/justiceHui)
 
 ## 🙋‍♂️ Profile
 
@@ -26,8 +28,6 @@
 * [814Solver](https://github.com/kimjg1119/814Solver) : [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
 
 ## 🏷️ Cards
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjusticeHui)](https://github.com/justiceHui)
 
 [![jhnah917's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhnah917)](https://solved.ac/profile/jhnah917)
 
