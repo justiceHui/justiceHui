@@ -24,7 +24,7 @@
 
 * Problem Solving Blog : ([#1](https://justiceHui.github.io), [#2](https://algoshitpo.github.io))
 * [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown) : Advanced Algorithm Introduction
-* [Sunrin-SHARC](https://github.com/justiceHui/Sunrin-SHARC) : Sunrin Internet High School Algorithm Research Club
+* [Sunrin-SHARC](https://github.com/justiceHui/Sunrin-SHARC) : SHARC(**S**unrin Internet **H**igh School **A**lgorithm **R**esearch **C**lub) Problem Solving Training Materials
 * [Euclidean_TSP_Solver](https://github.com/justiceHui/Euclidean_TSP_Solver) : Euclidean TSP Solver
 * [814Solver](https://github.com/kimjg1119/814Solver) : [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
 
