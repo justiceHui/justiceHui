@@ -22,9 +22,9 @@
 
 ## 🏷️ Cards
 
-[![jhnah917's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhnah917)](https://solved.ac/profile/jhnah917)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=justicehui&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![jhnah917's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhnah917)](https://solved.ac/profile/jhnah917) [![CodeForces Profile](http://cf.leed.at?id=justice_hui)](https://codeforces.com/profile/justice_hui)
 
 [![JusticeHui's github stats](https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true)](https://github.com/justiceHui) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeHui&layout=compact)](https://github.com/justiceHui)
 
