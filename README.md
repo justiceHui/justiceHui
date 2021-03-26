@@ -5,8 +5,10 @@
 ## 🙋‍♂️ Profile
 
 * Jeounghui Nah (a.k.a. jhnah917, JusticeHui)
-* Sunrin Internet High School, Department of Software, 3rd grade
+* Soongsil University, School of Computer Science & Engineering
+* Sunrin Internet High School, Department of Software
 * Competitive Programmer
+* more information : [link](https://justicehui.github.io/about/)
 
 ## 💻 Online Judge
 
