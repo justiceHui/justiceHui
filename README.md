@@ -28,7 +28,7 @@
 
 [![jhnah917's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhnah917)](https://solved.ac/profile/jhnah917)
 
-[![CodeForces Profile](http://cf.leed.at?id=justice_hui)](https://codeforces.com/profile/justice_hui)
+[![CodeForces Profile](http://cf.leed.at/?id=Justice_Hui)](https://codeforces.com/profile/justice_hui)
 
 [![JusticeHui's github stats](https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true)](https://github.com/justiceHui) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeHui&layout=compact)](https://github.com/justiceHui)
 
