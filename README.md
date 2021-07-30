@@ -22,6 +22,14 @@
 * [JusticeHui's PS Blog](https://justiceHui.github.io)
 * [Algoshitpo Team PS Blog](https://algoshitpo.github.io)
 
+## ⚡ Project
+
+* [Sunrin-SHARC](https://github.com/justiceHui/Sunrin-SHARC) : Problem Solving Training Materials
+* [Euclidean_TSP_Solver](https://github.com/justiceHui/Euclidean_TSP_Solver) : O(N log N) 2-Approximation Euclidean TSP Solver
+* [cms-spotboard-converter](https://github.com/justiceHui/cms-spotboard-converter) : use [Spotboard](https://github.com/spotboard/spotboard) in [Contest Management System](https://github.com/cms-dev/cms)
+* [Unknown-To-Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown) : Advanced Algorithm Introduction
+* [814Solver](https://github.com/kimjg1119/814Solver) : [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
+
 ## 🏷️ Cards
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=justicehui&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
