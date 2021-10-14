@@ -28,7 +28,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=justicehui&theme=flat&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy"><br>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeHui&layout=compact"><br>-->
   <!--<a href="https://codeforces.com/profile/justice_hui"><img src="http://cf.leed.at/?id=Justice_Hui"></a><br>-->
-  <img src="https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true"><br>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true"><br>-->
   <a href="https://solved.ac/profile/jhnah917"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jhnah917"></a><br>
 </p>
 
