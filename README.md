@@ -1,5 +1,35 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=0&height=300&section=header&text=Jeounghui%20Nah&fontSize=70"></p>
 
+<h3 align="center">🙋‍♂️ Profile</h3>
+
+<p align="center">
+  Soongsil University, School of Computer Science & Engineering<br>Sunrin Internet High School, Department of Software<br>
+  <a href="https://justiceHui.github.io">Problem Solving Blog</a><br>
+  <a href="https://justicehui.github.io/about">Works & Achievements</a><br>
+  <a href="https://github.com/justiceHui/SSU-SCCC-Study">Lecture Slides (Korean)</a>
+</p>
+
+<h3 align="center">🏆 Awards</h3>
+
+<p align="center">
+  <b>2023 ICPC World Finalist</b><br>
+  2023 ICPC Asia Korea National First Round Contest 3rd Place<br>
+  2022 ICPC Asia Seoul Regional Contest 5th Place(Silver Prize)<br>
+  2022 ICPC Asia Korea National First Round Contest 8th Place<br>
+  2022 Hyundai Mobis Algorithm Competition 4th Place Prize<br>
+  2021 Hyundai Mobis Algorithm Competition 5th Place Prize
+</p>
+
+<h3 align="center">🖥️ Activity</h3>
+
+<p align="center">
+  <b>Korea Olympiad in Informatics(KOI)</b> Problemsetter<br>
+  <b>Nexon Youth Programming Challenge(NYPC)</b> Problemsetter<br>
+  <b>National IOI Training Camp</b> Instructor & Teaching Assistant<br>
+  <b>Samsung Electronics</b> Algorithm Teaching Assistant<br>
+  <b>Samsung Software Academy For Youth(SSAFY)</b> Algorithm Instructor<br>
+</p>
+
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">Techs that I've used at least once</p>
@@ -10,15 +40,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
-</p>
-
-<h3 align="center">🙋‍♂️ Profile</h3>
-
-<p align="center">
-  Soongsil University, School of Computer Science & Engineering<br>Sunrin Internet High School, Department of Software<br>
-  <a href="https://justiceHui.github.io">Problem Solving Blog</a><br>
-  <a href="https://justicehui.github.io/about">Works & Achievements</a>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 </p>
 
 <h3 align="center">🏷️ Cards</h3>
@@ -33,22 +56,6 @@
 </p>
 
 <!--
-
-## 💻 Online Judge
-
-* BOJ: [jhnah917](http://icpc.me/jhnah917)
-  * solvedac: [jhnah917](https://solved.ac/profile/jhnah917)
-* Codeforces: [Justice_Hui](https://codeforces.com/profile/Justice_Hui) [![](https://run.kaist.ac.kr/badges/codeforces/justice_hui.svg)](https://codeforces.com/profile/Justice_Hui)
-* Atcoder: [JusticeHui](https://atcoder.jp/users/JusticeHui) [![](https://run.kaist.ac.kr/badges/atcoder/JusticeHui.svg)](https://atcoder.jp/users/JusticeHui)
-
-## ⚡ Project
-
-* [Sunrin-SHARC](https://github.com/justiceHui/Sunrin-SHARC) : Problem Solving Training Materials
-* [Euclidean_TSP_Solver](https://github.com/justiceHui/Euclidean_TSP_Solver) : O(N log N) 2-Approximation Euclidean TSP Solver
-* [cms-spotboard-converter](https://github.com/justiceHui/cms-spotboard-converter) : use [Spotboard](https://github.com/spotboard/spotboard) in [Contest Management System](https://github.com/cms-dev/cms)
-* [Unknown-To-Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown) : Advanced Algorithm Introduction
-* [814Solver](https://github.com/kimjg1119/814Solver) : [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
-
 ## 📫 Contact
 
 - 🔭 I’m currently working on ...
@@ -59,12 +66,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-## ⚡ Project
-
-* Problem Solving Blog : ([#1](https://justiceHui.github.io), [#2](https://algoshitpo.github.io))
-* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown) : Advanced Algorithm Introduction
-* [Sunrin-SHARC](https://github.com/justiceHui/Sunrin-SHARC) : SHARC(**S**unrin Internet **H**igh School **A**lgorithm **R**esearch **C**lub) Problem Solving Training Materials
-* [Euclidean_TSP_Solver](https://github.com/justiceHui/Euclidean_TSP_Solver) : Euclidean TSP Solver
-* [814Solver](https://github.com/kimjg1119/814Solver) : [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
-  -->
+-->
