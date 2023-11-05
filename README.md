@@ -12,6 +12,8 @@
 <p align="center">
   <b>2023 ICPC World Finalist</b><br>
   2022 ICPC Asia Seoul Regional Contest 5th Place(Silver Prize)<br>
+  2023 ICPC Asia Korea National First Round Contest 3rd Place<br>
+  2022 ICPC Asia Korea National First Round Contest 8th Place<br>
   2022 Hyundai Mobis Algorithm Competition 4th Place Prize<br>
   2021 Hyundai Mobis Algorithm Competition 5th Place Prize
 </p>
