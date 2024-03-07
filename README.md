@@ -10,7 +10,9 @@
 <h3 align="center">🏆 Awards</h3>
 
 <p align="center">
+  <b>2024 ICPC World Finalist</b><br>
   <b>2023 ICPC World Finalist</b><br>
+  <b>2024 ICPC Asia Pacific Championship 5th Place(Silver Medal)</b><br>
   2023 ICPC Asia Seoul Regional Contest 5th Place(Silver Prize)<br>
   2023 ICPC Asia Korea National First Round Contest 3rd Place<br>
   2022 ICPC Asia Seoul Regional Contest 5th Place(Silver Prize)<br>
@@ -19,14 +21,20 @@
   2021 Hyundai Mobis Algorithm Competition 5th Place Prize
 </p>
 
-<h3 align="center">🖥️ Activity</h3>
+<h3 align="center">🖥️ Work Experience</h3>
+
+<p align="center">
+  <b>NAVER Corp.</b> <a href="https://github.com/yorkie-team">Yorkie</a> TF Intern<br>
+  <b>Samsung Electronics</b> Algorithm Teaching Assistant<br>
+  <b>Samsung Software Academy For Youth(SSAFY)</b> Algorithm Instructor<br>
+</p>
+
+<h3 align="center">🔭 Activity</h3>
 
 <p align="center">
   <b>Korea Olympiad in Informatics(KOI)</b> Problemsetter<br>
   <b>Nexon Youth Programming Challenge(NYPC)</b> Problemsetter<br>
   <b>National IOI Training Camp</b> Instructor & Teaching Assistant<br>
-  <b>Samsung Electronics</b> Algorithm Teaching Assistant<br>
-  <b>Samsung Software Academy For Youth(SSAFY)</b> Algorithm Instructor<br>
 </p>
 
 <h3 align="center">🏷️ Cards</h3>
