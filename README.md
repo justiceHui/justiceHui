@@ -35,7 +35,9 @@
 
 <p align="center">
   <b>Korea Olympiad in Informatics(KOI)</b> Problemsetter<br>
+  <b>ICPC Asia Seoul Regional Contest</b> Problemsetter<br>
   <b>Nexon Youth Programming Challenge(NYPC)</b> Problemsetter<br>
+  <b>LG Collegiate Programming Contest(LGCPC)</b> Problemsetter<br>
   <b>National IOI Training Camp</b> Instructor & Teaching Assistant<br>
   <a href="https://justiceHui.github.io">Problem Solving Blog</a>, <a href="https://justicehui.github.io/about">Works & Achievements</a>, <a href="https://github.com/justiceHui/SSU-SCCC-Study">Lecture Slides (Korean)</a>
 </p>
